@@ -1,0 +1,4 @@
+
+const MemoizedComponent = React.memo(function MyComponent(props) {
+  /* render using props */
+});
