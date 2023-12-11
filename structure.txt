@@ -1,0 +1,17 @@
+toll-calculator/
+|-- components/
+|   |-- Header.js
+|   |-- CalculateTollButton.js
+|   |-- LeafletMap.js
+|-- pages/
+|   |-- index.js
+|-- services/
+|   |-- tollService.js
+|-- redux/
+|   |-- actions.js
+|   |-- reducers.js
+|   |-- store.js
+|-- api.js
+|-- .env.local
+|-- package.json
+|-- ...
